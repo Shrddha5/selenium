@@ -11,7 +11,7 @@ public class SeleniumMainApp {
         // Additional Selenium setup and code can be added here
 
         WebDriver driver= new ChromeDriver();
-        driver.get("https://app.vwo.com/");
+        driver.get("https://app.vwo.cin/");
 
     }
 }
