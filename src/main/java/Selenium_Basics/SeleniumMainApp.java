@@ -1,4 +1,4 @@
-package org.selenium;
+package Selenium_Basics;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,7 +11,7 @@ public class SeleniumMainApp {
         // Additional Selenium setup and code can be added here
 
         WebDriver driver= new ChromeDriver();
-        driver.get("https://app.vwo.in/");
+        driver.get("https://app.vwo.com");
 
     }
 }
