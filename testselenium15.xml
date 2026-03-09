@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    <test name="R">
+        <classes>
+            <class name="org.selenium.ex3_testsel15.tesstselenium15.java"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="VWO Free Trial Test Suite" verbose="1">
+    <test name="Free Trial Error Verification">
+        <classes>
+            <class name="org.selenium.ex2_Locater.miniproj2"/>
+        </classes>
+    </test>
+</suite>

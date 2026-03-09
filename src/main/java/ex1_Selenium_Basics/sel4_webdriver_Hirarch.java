@@ -1,4 +1,4 @@
-package Selenium_Basics;
+package ex1_Selenium_Basics;
 
 public class sel4_webdriver_Hirarch {
     public static void main(String[] args) {

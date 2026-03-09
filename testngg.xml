@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="VWO Login Test Suite" verbose="1">
+    <test name="Login Test">
+        <classes>
+            <class name="org.selenium.ex2_Locater.locater_id"/>
+        </classes>
+    </test>
+</suite>
